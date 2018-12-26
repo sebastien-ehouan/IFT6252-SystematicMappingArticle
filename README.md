@@ -4,7 +4,6 @@ Developing modern software systems is a complex task. Developers have to constan
 
 This page lists the articles used for the Systematic Mapping Study: Recommendation Systems for Software Quality in IDEs.
 
-- Link to [paper](https://guides.github.com/features/mastering-markdown/). 
-- Link to [Query Result](https://guides.github.com/features/mastering-markdown/).
-- Link to [List of papers classified](https://guides.github.com/features/mastering-markdown/).
-- Link to [Classification result](https://guides.github.com/features/mastering-markdown/).
+- Link to [Papers](https://sebastien-ehouan.github.io/IFT6252-SystematicMappingArticle/queryResult.html).
+- Link to [List of papers classified](https://sebastien-ehouan.github.io/IFT6252-SystematicMappingArticle/listIncluded.html).
+- Link to [Classification result](https://sebastien-ehouan.github.io/IFT6252-SystematicMappingArticle/classificationResult.html).
