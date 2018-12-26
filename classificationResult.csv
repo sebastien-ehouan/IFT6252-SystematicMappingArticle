@@ -1,0 +1,44 @@
+Key,Title,The recommendation data source,Recommendation Occurence,Target,Developpement environment,Developpement language,Investigation type
+50,Recommending relevant code artifacts for change requests using multiple predictors,Static,,Other,Code,,Experiment | Imlementation
+58,Doppio: Tracking UI flows and code changes for app development,Reinforced,Manual,,Code,"Java, Kotlin",Experiment | Imlementation
+67,A study of interactive code annotation for access control vulnerabilities,Reinforced | Static,RealTime,Quality,Code,"PHP, JAVA",Experiment | Imlementation
+68,On the use of context in recommending exception handling code examples,Dynamic,Manual,API | Code Smells | Correctness | Quality,Code,Java,Experiment | Imlementation
+69,Equipping IDEs with XML-path reasoning capabilities,Static,Manual | RealTime,Correctness | Quality,Code,"XQuery, XML",Imlementation
+71,Recommending auto-completions for software modeling activities,Static,RealTime,Quality,Model,UML,Experiment | Imlementation
+73,Increasing clone maintenance support by unifying clone detection and refactoring activities,Static,Manual,Code Smells | Refactoring,Code,Java,Experiment | Imlementation
+46,Code recommendation based on a degree-of-interest model,Dynamic,Checkpoint | RealTime,Other | Quality,Code,Java,Experiment | Imlementation
+75,Recommending API methods based on identifier contexts,,,API,Code,Java,Experiment | Imlementation
+83,ReFit: A Fit test maintenance plug-in for the Eclipse refactoring plug-in,Static,Manual,Refactoring,Code,Java,Experiment | Imlementation
+86,TacoPlug: An eclipse plug-in for TACO,Static,Manual,Correctness,Code,"Java,  JML/JFSL",Imlementation
+49,A cost-benefit approach to recommending conflict resolution for parallel software development,Static,Manual,Correctness,Code,C,Experiment
+51,The weHelp reference architecture for community-driven recommender systems,Static,Manual,Other,Other,,
+54,Proposing software design recommendations based on component interface intersecting,Dynamic,Manual,Refactoring,Code,JAVA,Imlementation
+57,Quick fixing ATL transformations with speculative analysis,Static,Checkpoint,Correctness,Model,UML,Imlementation
+64,How is code recommendation applied in android development: A qualitative review,Static,Manual,Other,Code,,
+47,Towards a visualized code recommendation for APIs enriched with specification mining,Static,RealTime,Correctness,Code,,
+66,Intelligent code completion with Bayesian networks,Reinforced,RealTime,Other,Code,JAVA,Imlementation
+48,Recommendations as learning: From discrepancies to software improvement,Reinforced,Manual,Quality,Code,,
+55,On recommending meaningful names in source and UML,Reinforced,RealTime,Quality,Code | Model,,
+56,Recommending rename refactorings,Dynamic,RealTime,Refactoring,Code,Java,Case study
+61,Detection technology and application of clone refactoring,,,Code Smells,Code,"Java, C, C++",
+77,Eliminating dead-code from XQuery programs,Static,Manual,Quality,Code,XQuery,
+81,Semi-automating small-scale source code reuse via structural correspondence,Dynamic,Manual,Correctness,Code,Java,Experiment
+70,Using HTML5 visualizations in software fault localization,Static,Manual,Correctness,Code,JAVA,Case study
+74,Identifier-based context-dependent API method recommendation,Reinforced,RealTime,API,Code,JAVA,Case study | Imlementation
+82,JACK - A tool for validation of security and behaviour of java applications,Static,Checkpoint | Manual,Correctness | Quality,Code,Java,Case study
+84,A visual studio plug-in for CProver,Static,Checkpoint | Manual,Correctness | Quality,Code,C#,
+76,Speculative analysis: Exploring future development states of software,Dynamic,Manual,Correctness | Quality,Code,JAVA,
+78,Autumn leaves: Curing the window plague in IDEs,Static,RealTime,Quality,Code,"JAVA, Smalltalk",Case study | Survey
+85,XML development with plug-ins as a service,Static,Manual,Other,Other,XML,
+88,An OpenGL-based eclipse plug-in for visual debugging,Static,Manual,Correctness | Quality,Code,JAVA,
+53,Towards a Better Code Completion system by API grouping; filtering; and popularity-based ranking,Dynamic | Static,RealTime,API,Code,Java,Experiment | Imlementation
+79,Learning to program with COALA; a distributed computer assisted environment,Dynamic | Static,Checkpoint,Quality,Code,Java,Imlementation
+80,Jig saw: A tool for the small-scale reuse of source code,Static,Manual,Other | Quality,Code,Java,Imlementation
+63,Continuous code reviews: A social coding tool for code reviews inside the IDE,Dynamic,Manual,Other | Quality | Refactoring,Code,,Experiment | Imlementation
+65,Interactive and guided architectural refactoring with search-based recommendation,Static,Checkpoint,Refactoring,Code,Java,Case study | Experiment
+60,RETICULA: Real-time code quality assessment,Dynamic | Static,RealTime,Quality,Code,Java,Experiment | Imlementation
+90,Contractor.NET: Inferring typestate properties to enrich code contracts,Static,Manual,Other,Code,Java,Imlementation
+62,Detecting broken pointcuts using structural commonality and degree of interest,Static,Checkpoint | RealTime,Other | Quality,Code,Java,Imlementation
+89,Resource usage contracts for .NET,Static,Checkpoint,Other,Code,C#,Imlementation
+89,Resource usage contracts for .NET,Static,Checkpoint,Other,Code,C#,Imlementation
+59,Towards an intelligent fault prediction code editor to improve software quality using deep learning,Static | Reinforced,Checkpoint,Other,Code,,Imlementation
